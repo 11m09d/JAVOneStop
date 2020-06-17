@@ -2,6 +2,14 @@
 JavOneStop which is a small tool that helps users rename, parse, generate nfo, organize jav video files and
 communicate with Emby to add actresses images.
 
+## [0.7.3] - 2020-06-16
+### Updated
+- updated github action python version
+- increase time interval for request idmm downloader job queue
+- move oof validator from configurator to jav browser
+- rewrite jav browser sub components to prevent unexpected re-render
+- increase timeout for the idmm server
+
 ## [0.7.2] - 2020-06-08
 ### Added
 - testing new keyboard shortcut for jav browser
